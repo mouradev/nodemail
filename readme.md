@@ -8,4 +8,4 @@ A simple test with send mails with [Nodemailer](https://nodemailer.com/) library
 
 > Run `npm install`
 
-> Run `app.js` 🚀
+> Run `node app.js` 🚀
